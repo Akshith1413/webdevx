@@ -38,25 +38,25 @@ git clone https://github.com/your-repo.git
 
 ## Screenshots
 
-![Gallery Image 1](Gallery/first.png)
+![Gallery Image 1](Gallery/first.jpg)
 
 
-![Gallery Image 2](Gallery/second.png)
+![Gallery Image 2](Gallery/second.jpg)
 
 
-![Gallery Image 1](Gallery/third.png)
+![Gallery Image 1](Gallery/third.jpg)
 
 
-![Gallery Image 2](Gallery/fourth.png)
+![Gallery Image 2](Gallery/fourth.jpg)
 
 
-![Gallery Image 1](Gallery/fifth.png)
+![Gallery Image 1](Gallery/fifth.jpg)
 
 
-![Gallery Image 2](Gallery/six.png)
+![Gallery Image 2](Gallery/six.jpg)
 
 
-![Gallery Image 1](Gallery/seven.png)
+![Gallery Image 1](Gallery/seven.jpg)
 
 
 ![Gallery Image 2](Gallery/eight.png)
