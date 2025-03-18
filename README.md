@@ -66,3 +66,9 @@ git clone https://github.com/your-repo.git
 
 
 
+## Deployment Error : undefined/ in fetching url
+
+In only vercel. In localhost its working fine
+
+``` npm run build ```
+``` npm run start ```
