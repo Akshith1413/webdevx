@@ -9,6 +9,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/dash" element={<Dash />} /> {/* Ensure this route is correct */}
+        <Route path="*" element={<Login />} /> { }
       </Routes>
     </Router>
   );
