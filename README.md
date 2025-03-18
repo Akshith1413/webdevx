@@ -8,7 +8,7 @@ Welcome to our project submission for the **DevX Web Challenge**! Below, you'll 
 **DevX Web Challenge**  
 
 ## 👨‍💻👩‍💻 Team Name  
-**TeamNmae**  
+**Lightning**  
 
 ---
 
