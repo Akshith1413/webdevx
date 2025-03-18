@@ -180,4 +180,7 @@
     .submitforlog[type="submit"] {
         width: 80%;
     }
+}.formContainer {
+    display: flex;
+    /* Instead of display: none */
 }
